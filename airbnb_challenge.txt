@@ -1,0 +1,19 @@
+The challenge
+
+We see a few tracks to the challenge. You are free to define yours. The ultimate goal is to build an interactive visualization that helps tell a compelling and crisp story of user behavior on Airbnb.
+
+1. The time aspect of user interaction with Airbnb. How do the time spent on user sessions, and the intermediate actions taken by the user on his or her journey, relate to user outcomes? Is there seasonality to how users interact with the platform? Any favorite times in the day? Are there any user types defined by when and for how long they use the platform?
+
+2. Devices and apps used to access the platform and their impact on user outcomes. Do users who use a few devices and apps to access the platform exhibit different patterns than those who use one or two? What is the dynamic of switching from one device/app to the next, how does it relate to user actions and outcomes?
+
+3. Your track. Find your own way of looking at the data, and share it with the world!
+
+The scoring
+
+We will be evaluating your entry along 3 dimensions on a 10 point scale each. In order to compete for the win, you need to publish your entry as a databit on the challenge page, and score at least 1 point on each dimension:
+
+Methods (30%). How rigorous/ appropriate are the data analysis methods applied in the submission
+
+Design/ Usability (40%). How visually appealing/ usable is the submission
+
+Informativeness (30%). How informative is the submission towards addressing one or more challenge tracks
