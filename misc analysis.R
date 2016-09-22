@@ -12,7 +12,6 @@ library(stringr)
 set.seed(98136)
 
 theme_set(theme_bw(base_size = 16))
-setwd("C:\\Users\\Zane Kelly\\Data\\")
 
 #Nb. the raw data uses NULL to indicate missing values (these might be interesting themselves at some point)
 dat <- read.delim("airbnb_session_data.txt", sep = "|", stringsAsFactors = F, na.strings = "NULL")
